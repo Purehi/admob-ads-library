@@ -63,7 +63,7 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("release") {
-            groupId = "com.github.Spiritman021"
+            groupId = "com.github.wetube"
             artifactId = "admob-ads-library"
             version = "1.0"
 
